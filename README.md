@@ -76,7 +76,7 @@ The database is queried using the SQLAlchemy ORM, and seed data was created usin
 1. Clone this repository (only this branch)
 
    ```bash
-   git clone https://github.com/ChadCalcote/Codezvous
+   git clone https://github.com/Dem-Eat-Rice/Codezvous-App
    ```
 
 2. Install dependencies
